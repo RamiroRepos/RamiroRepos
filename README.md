@@ -30,8 +30,3 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=RamiroRepos&theme=tokyonight" alt="GitHub Streak"/>
 </p>
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RamiroRepos&theme=tokyonight)](https://github.com/RamiroRepos)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=RamiroRepos&theme=tokyonight)](https://github.com/RamiroRepos)
-
