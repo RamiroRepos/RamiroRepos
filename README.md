@@ -30,3 +30,7 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=RamiroRepos&theme=tokyonight" alt="GitHub Streak"/>
 </p>
+
+## 📊 Estadísticas del repositorio
+
+![Contribuciones en este repo](https://github-contributor-stats.vercel.app/api?username=RamiroRepos&repo=Tournament-Logistic-App&theme=tokyonight&limit=5&hide=B,B%2B)
