@@ -30,3 +30,14 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=RamiroRepos&theme=tokyonight" alt="GitHub Streak"/>
 </p>
+
+## 📊 My GitHub Stats
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight)](https://github.com/TU_USUARIO)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&theme=tokyonight&layout=compact)](https://github.com/TU_USUARIO)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=tokyonight)](https://github.com/TU_USUARIO)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=TU_USUARIO&theme=tokyonight)](https://github.com/TU_USUARIO)
+
