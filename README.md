@@ -30,11 +30,3 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=RamiroRepos&theme=tokyonight" alt="GitHub Streak"/>
 </p>
-
----
-
-## 🚀 Sobre mí
-
-> Siempre aprendiendo, siempre construyendo.  
-> Fan del código limpio, el rendimiento... y el café ☕  
-> Si suena en el dojo o en producción, ¡yo lo implemento!
