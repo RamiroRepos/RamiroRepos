@@ -31,12 +31,6 @@
   <img src="https://streak-stats.demolab.com/?user=RamiroRepos&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
-## 📊 My GitHub Stats
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RamiroRepos&show_icons=true&theme=tokyonight)](https://github.com/RamiroRepos)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RamiroRepos&theme=tokyonight&layout=compact)](https://github.com/RamiroRepos)
-
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RamiroRepos&theme=tokyonight)](https://github.com/RamiroRepos)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=RamiroRepos&theme=tokyonight)](https://github.com/RamiroRepos)
