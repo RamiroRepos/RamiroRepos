@@ -65,7 +65,6 @@ Me gusta el código limpio, el rendimiento... y el café ☕
 
 ## 📌 Otros proyectos
 
-- 🌐 [Portafolio](https://github.com/RamiroRepos/Portafolio) — Sitio de portafolio personal construido con Astro y Tailwind CSS.
 - 🏆 **Tournament-Logistic-App** _(privado)_ — App de logística para torneos.
 - 🚗 **AutoPulse-ODB2-APP** _(privado)_ — App de diagnóstico vehicular vía OBD2.
 - 🏥 **SIRE** _(privado)_ — Sistema de gestión de ocupación para la Casa Ronald McDonald Costa Rica (Angular + Electron + Express), proyecto TCU con la Universidad de Costa Rica.
