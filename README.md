@@ -43,8 +43,8 @@ Me gusta el código limpio, el rendimiento... y el café ☕
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RamiroRepos&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamiroRepos&theme=tokyonight&layout=compact" alt="Top Langs" height="165"/>
+  <img src="https://github-readme-stats-rho-orpin.vercel.app/api?username=RamiroRepos&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats-rho-orpin.vercel.app/api/top-langs/?username=RamiroRepos&theme=tokyonight&layout=compact" alt="Top Langs" height="165"/>
 </p>
 
 <p align="center">
